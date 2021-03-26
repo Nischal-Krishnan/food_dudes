@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>97618546084-dfe6e6er73k0q682rvqjlqgn60gpbj08.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.97618546084-dfe6e6er73k0q682rvqjlqgn60gpbj08</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>97618546084-fvd1e4n38o6rmk06c5hff7mqkfrsn4qp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBgOTn6N-xp8AYGQ0leEZcDDv7YPHQfvzE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>97618546084</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.fooddudes</string>
+	<key>PROJECT_ID</key>
+	<string>the-food-dudes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>the-food-dudes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:97618546084:ios:a3978f319fdb31783b0531</string>
+	<key>DATABASE_URL</key>
+	<string>https://the-food-dudes-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

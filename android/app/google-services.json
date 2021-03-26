@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "97618546084",
+    "project_id": "the-food-dudes",
+    "storage_bucket": "the-food-dudes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97618546084:android:b9eb6122b50d5f193b0531",
+        "android_client_info": {
+          "package_name": "com.example.food_dudes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "97618546084-1rus7f4648mehh3huda45e6dd8kjuek8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa9gyhGZAJsk6FB4Yqd3PcsLyJW2ksUaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "97618546084-1rus7f4648mehh3huda45e6dd8kjuek8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
